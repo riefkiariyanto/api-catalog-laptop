@@ -1,104 +1,129 @@
 {
     "asus": [
         {
+            "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/asus1.jpg",
             "laptop_name": "Asus Vivobook flip14",
             "spec": "ASUS ZENBOOK UX435EAL-1WIPS511 EVO i5 1135G7 8GB 1TB SSD Intel Iris Graphics 14`` FHD IPS W10 OHS"
         },
         {
+            "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/asus2.jpg",
             "laptop_name": "Asus Zenbook Duo",
             "spec": "ASUSZenbook Duo UX481FL i5 10210U RAM 8GB 512GB SSD VGA MX250 2GB 14`` FHD"
         },
         {
-          "laptop_name": "ASUS ROG STRIX",
+            "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/asus3.jpeg",
+            "laptop_name": "ASUS ROG STRIX",
             "spec": "ASUS ROG STRIX G713IC-R735B6T-O RYZEN 7-4800H 8GB 512GB SSD RTX3050 4GB FHD IPS WIN10 OHS"
         },
         {
+            "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/asus4.jpeg",
           "laptop_name": "Asus Rog Zephyrus Duo",
             "spec": "Asus Rog Zephyrus Duo 15 Gx550Lws I7-10875H 32Gb 2Tb Rtx2070 Super 8Gb"
         },
         {
+            "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/asus5.jpg",
           "laptop_name": "Asus ROG G532LWS I77SD6T i7",
             "spec": "Asus ROG G532LWS I77SD6T i7 10875 16GB 1TBssd RTX2070S 8GB Windows FHD"
         },
         {
+            "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/asus6.JPG",
           "laptop_name": "ASUS ROG ZEPHYRUS GA401QM",
             "spec": "ASUS ROG ZEPHYRUS GA401QM-R936B6G-O R9 5900HS 8GB 1TB RTX3060 14in W10"
         },
     ],
     "acer": [
         {
+            "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/acer1.jpg",
             "laptop_name": "ACER Predator Helios",
             "spec": "ACER Predator Helios PH315-54-724L [15.6'/i7-11800H/16GB/512GB/RTX3060/OPI] NH.QC2SN.001"
         },
         {
+            "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/acer2.jpg",
           "laptop_name": "ACER Swift X",
             "spec": "Acer Swift X SFX14 Ryzen 5-5600 RAM 16GB SSD 512GB RTX3050 4GB"
         },
         {
+            "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/acer3.jpg",
           "laptop_name": "ACER SWIFT 3",
             "spec": "ACER SWIFT 3 SF314 43.R0K1 RYZEN 7 5700 8GB 512SSD VEGA 8 14.0 FHD IPS WINDOWS PRELUDE"
         },
         {
+            "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/acer4.jpg",
           "laptop_name": "Acer Predator Nitro 5",
             "spec": "Acer Predator Nitro AN515 Ryzen 5 5600H GTX1650 16GB 512GB 15.6FHD W10"
         },
         {
+            "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/acer5.jpg",
           "laptop_name": "Acer Predator Helios 300",
             "spec": "Acer Predator Helios 300 PH315-53-75LC [15,6'/i7-10870H/8G/512G/SSD/OPI] Black [NH.Q7ZSN.003]"
         },
         {
+            "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/acer6.jpg",
           "laptop_name": "ACER Swift 3 Infinity 4",
             "spec": "ACER Swift 3 Infinity 4 SF314-511-57RH [14'FHD/i5-1135G7/16/512/RED/EVO] NX.ACTSN.008"
         },
     ],
      "hp": [
         {
+            "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/hp1.JPG",
             "laptop_name": "HP Envy X360 15 Touch",
             "spec": "HP Envy X360 15 Touch Ryzen 7 4700 16GB 512SSD VEGA7 W10 15.6FHD"
         },
         {
+            "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/hp2.JPG",
           "laptop_name": "HP PAVILION 15",
             "spec": "HP PAVILION 15 Ryzen 5 4500 8GB Vega-6 Win-10 15.6 FHD GAMING"
         },
         {
+            "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/hp3.JPG",
           "laptop_name": "HP 14-DB005AU",
             "spec": "HP 14-DB005AU E2 9000 - 4GB - 500GB"
         },
         {
+            "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/hp4.JPG",
           "laptop_name": "HP PAVILION GAMING 15",
             "spec": "HP PAVILION GAMING 15 CORE i5 10300H 8GB 256GB SSD NVIDIA 15.6FHD WINDOWS 10"
         },
         {
+            "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/hp5.JPG",
           "laptop_name": "HP Omen 15-En0013Ax",
             "spec": "Hp Omen 15-En0013Ax Ryzen 7 4800H 16Gb 512Ssd Rtx2060 6Gb W10 15.6Fhd A"
         },
         {
+            "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/hp6.JPG",
           "laptop_name": "HP 14s CF2005TX",
             "spec": "Hp 14s CF2005TX CF2004TX - i5 10210U 4GB 1TB R530 2GB 14 HD W10"
         },
+         
      ],
        "lenovo": [
         {
+            "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/lenovo1.JPG",
             "laptop_name": "Lenovo IdeaPad Slim 3",
             "spec": "Lenovo IdeaPad Slim 3 14ALC6 OHS Ryzen 3 5300U Win10 8GB 512GB SSD 14'' FHD IPS AMD Radeon Backlit G5ID GPID GQID Laptop"
         },
         {
+            "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/lenovo2.JPG",
           "laptop_name": "Lenovo 2in1 Yoga 7i",
             "spec": "Lenovo 2in1 Yoga 7i 14ITL5 3UID OHS i5 1135G7 Evo Win10 8GB 512GB SSD 14'' FHD IPS Touch Intel Iris Xe Laptop Convertible"
         },
         {
+            "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/lenovo3.JPG",
           "laptop_name": "Lenovo IdeaPad Slim 3i",
             "spec": "Lenovo IdeaPad Slim 3i JXID OHS i3 10110U Win10 4GB 256GB SSD 14' FHD IPS Integrated Intel UHD Laptop 14IML05 81WA00JXID"
         },
         {
+            "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/lenovo4.JPG",
           "laptop_name": "Lenovo ThinkBook 14s Yoga",
             "spec": "Lenovo ThinkBook 14s Yoga OHS i7 1165G7 Win10 Home 16GB 1TB SSD 14' FHD Touch Intel Iris Xe 3MID 3LID Integrated Pen Laptop Bisnis"
         },
         {
+            "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/lenovo5.JPG",
           "laptop_name": "LENOVO V14 - i5 1035G1",
             "spec": "LENOVO V14 - i5 1035G1 4GB 1TB + 256GB SSD FHD WIN10 OHS"
         },
         {
+            "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/lenovo6.JPG",
           "laptop_name": "LENOVO Flex 5 2IN1 TOUCH",
             "spec": "LENOVO Flex 5 2IN1 TOUCH | AMD Ryzen 3 5300 RAM 4GB/8GB 256ssd Vega6 W10 14.0FHD IPS"
         },
