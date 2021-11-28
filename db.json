@@ -29,7 +29,7 @@
             "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/asus6.JPG",
           "laptop_name": "ASUS ROG ZEPHYRUS GA401QM",
             "spec": "ASUS ROG ZEPHYRUS GA401QM-R936B6G-O R9 5900HS 8GB 1TB RTX3060 14in W10"
-        },
+        }
     ],
     "acer": [
         {
@@ -61,7 +61,7 @@
             "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/acer6.jpg",
           "laptop_name": "ACER Swift 3 Infinity 4",
             "spec": "ACER Swift 3 Infinity 4 SF314-511-57RH [14FHD/i5-1135G7/16/512/RED/EVO] NX.ACTSN.008"
-        },
+        }
     ],
      "hp": [
         {
@@ -93,8 +93,7 @@
             "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/hp6.JPG",
           "laptop_name": "HP 14s CF2005TX",
             "spec": "Hp 14s CF2005TX CF2004TX - i5 10210U 4GB 1TB R530 2GB 14 HD W10"
-        },
-         
+        }
      ],
        "lenovo": [
         {
@@ -126,7 +125,6 @@
             "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/lenovo6.JPG",
           "laptop_name": "LENOVO Flex 5 2IN1 TOUCH",
             "spec": "LENOVO Flex 5 2IN1 TOUCH | AMD Ryzen 3 5300 RAM 4GB/8GB 256ssd Vega6 W10 14.0FHD IPS"
-        },
-    ],
-     
+        }
+    ]
 }
