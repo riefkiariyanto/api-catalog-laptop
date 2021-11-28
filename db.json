@@ -3,12 +3,12 @@
         {
             "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/asus1.jpg",
             "laptop_name": "Asus Vivobook flip14",
-            "spec": "ASUS ZENBOOK UX435EAL-1WIPS511 EVO i5 1135G7 8GB 1TB SSD Intel Iris Graphics 14`` FHD IPS W10 OHS"
+            "spec": "ASUS ZENBOOK UX435EAL-1WIPS511 EVO i5 1135G7 8GB 1TB SSD Intel Iris Graphics 14 FHD IPS W10 OHS"
         },
         {
             "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/asus2.jpg",
             "laptop_name": "Asus Zenbook Duo",
-            "spec": "ASUSZenbook Duo UX481FL i5 10210U RAM 8GB 512GB SSD VGA MX250 2GB 14`` FHD"
+            "spec": "ASUSZenbook Duo UX481FL i5 10210U RAM 8GB 512GB SSD VGA MX250 2GB 14 FHD"
         },
         {
             "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/asus3.jpeg",
@@ -35,7 +35,7 @@
         {
             "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/acer1.jpg",
             "laptop_name": "ACER Predator Helios",
-            "spec": "ACER Predator Helios PH315-54-724L [15.6'/i7-11800H/16GB/512GB/RTX3060/OPI] NH.QC2SN.001"
+            "spec": "ACER Predator Helios PH315-54-724L [15.6/i7-11800H/16GB/512GB/RTX3060/OPI] NH.QC2SN.001"
         },
         {
             "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/acer2.jpg",
@@ -55,12 +55,12 @@
         {
             "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/acer5.jpg",
           "laptop_name": "Acer Predator Helios 300",
-            "spec": "Acer Predator Helios 300 PH315-53-75LC [15,6'/i7-10870H/8G/512G/SSD/OPI] Black [NH.Q7ZSN.003]"
+            "spec": "Acer Predator Helios 300 PH315-53-75LC [15,6/i7-10870H/8G/512G/SSD/OPI] Black [NH.Q7ZSN.003]"
         },
         {
             "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/acer6.jpg",
           "laptop_name": "ACER Swift 3 Infinity 4",
-            "spec": "ACER Swift 3 Infinity 4 SF314-511-57RH [14'FHD/i5-1135G7/16/512/RED/EVO] NX.ACTSN.008"
+            "spec": "ACER Swift 3 Infinity 4 SF314-511-57RH [14FHD/i5-1135G7/16/512/RED/EVO] NX.ACTSN.008"
         },
     ],
      "hp": [
@@ -100,7 +100,7 @@
         {
             "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/lenovo1.JPG",
             "laptop_name": "Lenovo IdeaPad Slim 3",
-            "spec": "Lenovo IdeaPad Slim 3 14ALC6 OHS Ryzen 3 5300U Win10 8GB 512GB SSD 14'' FHD IPS AMD Radeon Backlit G5ID GPID GQID Laptop"
+            "spec": "Lenovo IdeaPad Slim 3 14ALC6 OHS Ryzen 3 5300U Win10 8GB 512GB SSD 14 FHD IPS AMD Radeon Backlit G5ID GPID GQID Laptop"
         },
         {
             "image": "https://raw.githubusercontent.com/riefkiariyanto/image-api/main/lenovo2.JPG",
